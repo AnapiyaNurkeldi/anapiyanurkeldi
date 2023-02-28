@@ -1,6 +1,6 @@
 # 💫 About Me:
 Junior web developer
-"HTML CSS" "JS REACT" "WORDPRESS" "PYTHON"
+"HTML CSS" "JS REACT" "WORDPRESS" "PYTHON" "PHP
 I'm currently learning JAVA
 
 
